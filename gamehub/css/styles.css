@@ -1,0 +1,152 @@
+#title{
+    background-color: #FF4646;
+    color: rgb(250, 250, 250);
+}
+.container-fluid{
+    padding: 3% 15% 7%;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.nav-item{
+    padding: 0 38px;
+}
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.title-img{
+    width: 40%;
+    transform: rotate(20deg);
+    
+
+}
+.postioning{
+    position: absolute;
+    left: 1000px;
+
+}
+#features{
+    /* padding: 7% 15%; */
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+}
+.fas{
+    color: #f55e5e;
+    text-align: center;
+    width:100px;
+}
+.d1{
+    margin-top: 150px;
+    text-align: center;
+    
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h3{
+    font-weight: bold;
+   color: black;
+}
+.container{
+    padding-top: 150px;
+    text-align: justify;
+}
+.features{
+    text-align: center;
+    color: grey;
+    padding: 150px 50px;
+}
+.icon{
+color: #ef8172;
+margin-bottom: 2rem;
+}
+.icon:hover{
+    color: #FF4646;
+}
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #ffff;
+}
+.timg{
+    border-radius: 100%;
+    margin: 20px;
+}
+.timg1{
+    margin: 20px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 10%;
+}
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.pricecolumn{
+    padding: 3% 3%;
+    
+}
+@media (max-width:1028px) {
+    #title{
+        text-align: center;
+    }
+    .title-img{
+        transform: rotate(0);
+        /* margin-left: 100px; */
+        padding-top: 50px;
+        padding-bottom: 50px;
+        width: 80%;
+    }
+    .postioning{
+        position: static;
+    }
+}
+#cta{
+    background-color: #FF4646;
+    text-align: center;
+    padding: 7% 15%;
+}
+.e1{
+    color:#fff;
+}
+.d2{
+    margin-top: 150px;
+}
+#footer{
+    text-align: center;
+    padding: 7% 15%;
+}
+.social-icon{
+   margin: 20px 10px;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: #343A40;
+}
