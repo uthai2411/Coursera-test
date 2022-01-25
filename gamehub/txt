@@ -1,0 +1,56 @@
+<div class="row">
+        <div class="card">
+        <div class="col-lg-4">
+        <div class="card-header">
+
+          <h3>Beginner</h3>
+        </div>
+        <div class="card-body">
+
+          <h3>From ₹300-₹600 per game</h3>
+
+          <p>GTA: Vice City.</p>
+          <p>GTA 3.</p>
+          <p> World War Z.</p>
+          <p>Virtua Cop and more.</p>
+          <button type="button">Sign Up</button>
+        </div>
+      </div>
+        </div>
+      <div class="card">
+        <div class="col-lg-4">
+        <div class="card-header">
+          
+          <h3>Enthusiastic</h3>
+
+        </div>
+        <div class="card-body">
+      <h3>From ₹600-₹1500 per game</h3>
+          <p>Far Cry 3.</p>
+          <p> Assassin's creed 1 to 4.</p>
+          <p> batman arkaham asylum and origins.</p>
+          <p>Mafia 2 and more.</p>
+          <button type="button">Sign Up</button>
+        </div>
+        </div>
+      </div>
+      <div class="card">
+        
+          <div class="col-lg-4">
+            <div class="card-header">
+          <h3>Extreme</h3>
+
+        </div>
+        <div class="card-body">
+
+          <h3>Above ₹1500 per game</h3>
+          <p>Assassin’s Creed Valhalla </p>
+          <p>Far Cry 5</p>
+          <p>Metro Exodus</p>
+          <p>GTA 5</p>
+          <button type="button">Sign Up</button>
+        </div>
+      </div>
+      </div>
+
+    </div>
